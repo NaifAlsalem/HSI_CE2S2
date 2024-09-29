@@ -11,3 +11,5 @@ This link will lead to the minerals working group webpage: https://nasa.github.i
 2- Spectral & Spatial Analysis of CH4 data 
 
 3- CH4 Retrieval using Radiative Transfer algorthims such as MODTRAN etc 
+
+4- Mineral exploration by means of hyperspectral imaging. 
