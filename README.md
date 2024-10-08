@@ -16,4 +16,6 @@ This link will lead to the minerals working group webpage: https://nasa.github.i
 
 5- Ground-based measurement of CH4 
 
-6- other 
+6- Scattering model
+
+
